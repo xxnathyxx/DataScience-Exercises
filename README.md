@@ -28,7 +28,7 @@ Aquí encontrarás ejemplos y prácticas organizadas que cubren desde fundamento
 
 ## 📂 Estructura propuesta
 
-DataScience-Exercises/
+DataScience-portfolio/
 
 │── notebooks/ # Ejercicios en Jupyter Notebooks
 
