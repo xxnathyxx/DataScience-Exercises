@@ -28,10 +28,15 @@ Aquí encontrarás ejemplos y prácticas organizadas que cubren desde fundamento
 ## 📂 Estructura propuesta
 
 DataScience-Exercises/
+
 │── notebooks/ # Ejercicios en Jupyter Notebooks
+
 │── datasets/ # Conjuntos de datos de ejemplo
+
 │── projects/ # Proyectos prácticos completos
+
 │── scripts/ # Código Python reutilizable
+
 │── README.md # Documentación principal
 
 
