@@ -1,7 +1,6 @@
 # 📊 DataScience-Exercises
 
-Repositorio de portafolio con ejercicios y proyectos prácticos relacionados con la **Ciencia de Datos** y el **Análisis de Datos**.  
-Aquí encontrarás ejemplos y prácticas organizadas que cubren desde fundamentos básicos hasta aplicaciones más avanzadas en **Machine Learning** y **Visualización de Datos**.
+Repositorio de portafolio con ejercicios y proyectos prácticos relacionados con la **Ciencia de Datos** y el **Análisis de Datos**.  Aquí encontrarás ejemplos y prácticas organizadas que cubren desde fundamentos básicos hasta aplicaciones más avanzadas en **Machine Learning** y **Visualización de Datos**.
 
 ---
 
