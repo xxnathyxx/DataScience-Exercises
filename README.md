@@ -51,8 +51,7 @@ Este repositorio tiene como finalidad servir como un **portafolio personal**, mo
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: *tu-email@ejemplo.com*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/natalia-beltran-2539a69b/)  
 - 🐙 [GitHub](https://github.com/xxnathyxx)  
 
 ---
